@@ -28,7 +28,7 @@ Inside each folder, individual instance files are stored in JSON format.
 
 Each JSON instance file has the following top‑level fields:
 
-```json
+```
 {
   "graph": {
     "nodes": [
